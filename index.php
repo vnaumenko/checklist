@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-  <h1 class="display-1">Перед релизом проверь!</h1>
+  <h1 class="display-1">Перед релизом 1 проверь!</h1>
 </header>
 <main>
   <div class="container">
