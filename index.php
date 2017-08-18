@@ -206,7 +206,7 @@
 <div class="progress fixed-bottom">
   <div class="progress-bar progress-bar-striped bg-primary" id="progress-Performance" role="progressbar" style="width: 0%"></div>
   <div class="progress-bar progress-bar-striped bg-success" id="progress-SEO" role="progressbar" style="width: 0%"></div>
-  <div class="progress-bar progress-bar-striped bg-danger" id="progress-Security 111" role="progressbar" style="width: 0%"></div>
+  <div class="progress-bar progress-bar-striped bg-danger" id="progress-Security" role="progressbar" style="width: 0%"></div>
   <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 0%"></div>
   <div class="progress-bar progress-bar-striped bg-inverse" role="progressbar" style="width: 0%"></div>
   <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 0%"></div>
